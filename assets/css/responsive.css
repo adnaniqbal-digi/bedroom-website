@@ -1,0 +1,19 @@
+@media screen and (max-width: 401px){
+    .navbar-brand, .demo1 {
+        font-size: 0.7rem;
+       
+    }
+
+}
+@media screen and(max-width:1730px){
+    .navbar-brand, .btn{
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width:994px){
+    .main-parah{
+        width: auto;
+        padding: 0 10px 0 10px;
+    }
+}
